@@ -1,8 +1,6 @@
-List Hashes Performance Test
-============================
+# List Hashes Performance Test
 
-Result
-------
+## Result
 
 ```
 BenchmarkDotNet v0.13.10, Windows 10 (10.0.19045.3636/22H2/2022Update)
