@@ -1,3 +1,5 @@
+***This repository has moved to [CSharpSandbox](../../../CSharpSandbox).***
+
 # List Hashes Performance Test
 
 ## Result
